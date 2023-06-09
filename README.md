@@ -4,13 +4,8 @@
 
 Plink v1.9 (https://www.cog-genomics.org/plink/)
 
-Python 3 with below packages
-
-	> openpyxl
-	
-	> pandas
-	
-	> numpy
+Python 3.7 with below packages
+> openpyxl, pandas, numpy
 	
 Command to run:
 
