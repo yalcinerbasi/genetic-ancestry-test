@@ -3,6 +3,7 @@
 **Software package requirements:**
 
 Plink v1.9 (https://www.cog-genomics.org/plink/)
+
 Python 3 with below packages
 	> openpyxl
 	> pandas
